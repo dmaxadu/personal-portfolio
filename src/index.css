@@ -15,7 +15,7 @@
 /* css variables */
 :root {
     /* color variables */
-    --color-bg: #303134;
+    --color-bg: #28292b;
     --color-bg-variant: #52545a;
     --color-primary: #0e6363;
     --color-primary-variant: #052929;
@@ -60,6 +60,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5 {
