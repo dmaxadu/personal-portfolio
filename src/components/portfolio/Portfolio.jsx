@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: 'Landpage',
     github: urlGitBase + 'landpage-with-html-css',
-    demo: urlGitBase + 'landpage-with-html-css'
+    demo: 'https://landingpagedmaxadu.netlify.app'
   },
   {
     id: 3,
