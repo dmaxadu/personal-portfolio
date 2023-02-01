@@ -5,6 +5,9 @@ import IMG2 from '../../assets/landpage.png'
 import IMG3 from '../../assets/netflixClone.png'
 import IMG4 from '../../assets/taskManager.png'
 import IMG5 from '../../assets/meuPortfolio.png'
+import IMG6 from '../../assets/IMG6.png'
+import IMG7 from '../../assets/IMG7.png'
+import IMG8 from '../../assets/IMG8.png'
 
 const urlGitBase = 'https://github.com/dmaxadu/';
 
@@ -43,6 +46,27 @@ const data = [
     title: 'Meu Portfolio',
     github: urlGitBase + 'personal-portfolio',
     demo: 'https://danielmachado.netlify.app'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Imagine Dragons\'s Concert Countdown',
+    github: urlGitBase + 'countdown-javascript',
+    demo: 'https://countdownidconcert.netlify.app/'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Calculator',
+    github: urlGitBase + 'calculadora-javascript',
+    demo: 'https://luminous-blini-13ecf9.netlify.app/'
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: 'Letter Counter',
+    github: urlGitBase + 'letter-counter-javascript',
+    demo: 'https://countletter.netlify.app/'
   },
 ]
 
