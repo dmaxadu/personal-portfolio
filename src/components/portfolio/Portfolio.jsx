@@ -69,7 +69,8 @@ const data = [
     github: urlGitBase + 'letter-counter-javascript',
     demo: 'https://countletter.netlify.app/'
   },
-   id: 9,
+  {
+    id: 9,
     image: IMG9,
     title: 'Hangman Game',
     github: urlGitBase + 'javascript-hangman-game',
