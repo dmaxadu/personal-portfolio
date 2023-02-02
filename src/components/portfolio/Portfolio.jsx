@@ -8,6 +8,7 @@ import IMG5 from '../../assets/meuPortfolio.png'
 import IMG6 from '../../assets/IMG6.png'
 import IMG7 from '../../assets/IMG7.png'
 import IMG8 from '../../assets/IMG8.png'
+import IMG9 from '../../assets/IMG9.png'
 
 const urlGitBase = 'https://github.com/dmaxadu/';
 
@@ -67,6 +68,12 @@ const data = [
     title: 'Letter Counter',
     github: urlGitBase + 'letter-counter-javascript',
     demo: 'https://countletter.netlify.app/'
+  },
+   id: 9,
+    image: IMG9,
+    title: 'Hangman Game',
+    github: urlGitBase + 'javascript-hangman-game',
+    demo: 'https://dmaxadu-hangman-game.netlify.app/'
   },
 ]
 
